@@ -1,6 +1,6 @@
 # prompts/prompts_templates.py
 """
-Prompt templates used in ${AI}^2R experiments.
+Prompt templates used in our proposed solution ${AI}^2R.
 These templates simulate different roles in the incident response workflow and evaluations.
 """
 
